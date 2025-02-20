@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "healthcare",
+			"path": "healthcare"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "health care website"
+	}
+}
